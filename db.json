@@ -8,6 +8,24 @@
       "bathrooms": "3 bathrooms",
       "floorSize": "250sqm",
       "imagePath": "assets/images/mansion.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Crappy house",
+      "description": "Crappy house crappy area",
+      "bedrooms": "2 bedrooms",
+      "bathrooms": "1 bathrooms",
+      "floorSize": "52sqm",
+      "imagePath": "assets/images/small-house.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Another house",
+      "description": "Decent",
+      "bedrooms": "2 bedrooms",
+      "bathrooms": "1 bathrooms",
+      "floorSize": "52sqm",
+      "imagePath": "assets/images/house.jpg"
     }
   ]
 }
