@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      id: 1,
+      name: 'Awesome house',
+      description: 'Nice property, good location',
+      bedrooms: '4 bedrooms',
+      bathrooms: '3 bathrooms',
+      floorSize: '250sqm',
+      imagePath: "assets/images/mansion.jpg")
+    }
+  ]
+}
